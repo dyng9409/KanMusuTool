@@ -1,0 +1,90 @@
+SHIP TABLE: name, yomi, id, english (english -> hiragana look up? incl kata)
+STATS table: all the stats (hp, luck, fp, aa, etc), id
+PLANES table: plane slot (necessitates null for pre kai/k2), id
+REFUEL table: refuel cost (bullets/fuel/baux?), id
+REMODEL table: id, afterid, remodel costs
+SCRAP table: scrap costs, id
+where to put getmes? maybe unnneeded? but would be nice, separate table
+
+ABYSSALS start at index 383
+
+SHIP DATA
+`api_maxeq: plane slot capacities [#, #, #, #]
+`api_taik: hp [base,max]
+`api_bull_max: max bullets (max resupply cost) int
+`api_voicef: some voice file, unnecesary
+`api_leng: range int
+api_fuel_max: max fuel (resupply) int
+api_aftershipid: remodel id (0 if no further remodel) unicode int?
+api_powup: stats given when modernizing (FP, TORP, AA, ARM)
+api_slot_num: # of fittings int
+api_afterbull: bullet cost to remodel int
+api_broken: scrap gain (FUEL, AMMO, STEEL, BAUX)
+api_luck: luck stat int
+api_soku:  speed stat int
+api_buildtime: construction time minutes?
+api_id: api id unicoded int (probably use this as primary) THIS IS USED WHEN REFERRING REMODELS
+api_getmes: message for getting unicded string
+api_backs: rarity int
+api_raig: torp (base, max) 
+api_afterlv: remodel level int
+api_sortno: shipdex card number (??) - used for menu sorting, might be still usefil
+api_tyku: AA int
+api_afterfuel: fuel cost for remodel int
+api_yomi: yomikata unicode string
+api_houg: FP stat
+api_name: name in kanji unicode string
+api_stype: ship class 
+api_souk: armor (base, max)
+NOTE: missing eva/acc/as?
+
+ITEM DATA
+api_sakb: nothing
+api_taik: endurance/hp (nothing boosts)
+api_info: item description
+api_saku: LoS
+api_leng: range
+api_tais: anti sub
+api_bakk: unused
+api_baku: bomber stat (planes)
+api_broken: scrap val (FUEL, AMMO, STEEL, BAUX)
+api_luck: luck stat (nothing boosts)
+api_soku: speed stat
+api_id: item id (anothe rprimary)
+api_raim: ?
+api_raik: ?
+api_raig: torp stat
+api_rare: rarity (1-5)
+api_sortno: index number (for sorting, also equipdex #)
+api_usebull: useless
+api_tyku: AA
+api_atap: unused
+api_houg: firepower
+api_name: item name
+api_houm: accuracy
+api_houk: evasion
+api_souk: armor (nothing boosts)
+api_type: item type? some kind of array, but itemt ype has ints
+
+
+API DATA
+api_mst_mission: expeditions
+api_mst_const: construction stuff?
+api_mst_mapinfo: maps stuff
+api_mst_maparea: maps stuff
+api_mst_payitem
+api_mst_slotitem_equiptype: equipment types
+api_mst_useitem: consumables
+api_mst_equip_exslot: 23, 43, 44 (WHAT THE NUMBERS MEAN)
+api_mst_item_shop: shop
+api_mst_shipgraph: ???
+api_mst_furnituregraph: ???
+api_mst_shipupgrade: ?
+api_mst_bgm: msuic
+api_mst_mapcell: someting withmaps
+api_mst_slotitem: fittings (what does api_type refer to? its an array of vals)
+api_mst_ship: kanmusus
+api_mst_furniture: furniture
+api_mst_mapbgm: map music
+api_mst_stype: ship classes
+
