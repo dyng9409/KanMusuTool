@@ -17,7 +17,11 @@ for ind in range(0,383):
     name = ships[ind]['api_name']
     yomi = ships[ind]['api_yomi']
     eego = romkan.to_roma(yomi)
-    shipclass = stypes[ships[ind]['api_stype']-1]['api_name']
+    classind = ships[ind]['api_stype']-1
+    if classind == 7:
+        shipclass = u'\u9ad8\u901f\u6226\u8266'
+    else:
+        shipclass = stypes[classind]['api_name']
     cur.execute('insert into kanmusu values(%s,%s,%s,%s,%s,%s);',(idnum,name,yomi,eego,sortno,shipclass))
 
 conn.commit()

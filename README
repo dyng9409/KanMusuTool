@@ -1,0 +1,5 @@
+using
+psycopg2 - apt-get
+romkan - easy_install romkan
+Tkinter - apt-get the python-tk package
+python 2.7
