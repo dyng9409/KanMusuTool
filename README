@@ -3,3 +3,20 @@ psycopg2 - apt-get
 romkan - easy_install romkan
 Tkinter - apt-get the python-tk package
 python 2.7
+
+note: go through yomis and eego and insert kai/kai2's
+note: replace sub names with actual pronnciation (e.g. 'imuya/いむや' instead of just i168/い１６８)
+
+goals:
+1. english language database, offline, able to see stats, description
+2. fleet build tool (first using base stats)
+3. improved fleet build tool (allow for fittings adjustment)
+3b. recommendations based on constraints on stats
+4. air superiority calculator
+5. sally ho simulation! (add enemy ships)
+6. map information + recommended fleets (user generated)
+
+GUI goals:
+CLI up to 4
+convert to gui
+find out how to get images
