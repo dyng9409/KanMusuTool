@@ -1,3 +1,4 @@
+import psycopg2
 f = open('pwd.txt')
 user = f.readline().strip()
 pwd = f.readline().strip()

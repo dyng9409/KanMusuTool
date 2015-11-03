@@ -7,6 +7,7 @@ python 2.7
 note: go through yomis and eego and insert kai/kai2's
 note: replace sub names with actual pronnciation (e.g. 'imuya/いむや' instead of just i168/い１６８)
 
+process class data
 goals:
 1. english language database, offline, able to see stats, description
 2. fleet build tool (first using base stats)

@@ -8,7 +8,8 @@ create table kanmusu(
     ship_yomi varchar(15),
     ship_eego varchar(20),
     ship_shipdex NUMERIC,
-    ship_class varchar(10),
+    ship_type varchar(10),
+    ship_class varchar(20),
     primary key(ship_id)
 );
 

@@ -1,0 +1,316 @@
+courtesty of kancolle wikia
+===[[:Category:Mutsuki Class|''Mutsuki''-class]]===
+{{ShipCardKai|Mutsuki/|link=Mutsuki}}
+{{ShipCardKai|Mutsuki/Kai Ni|link=Mutsuki}}
+{{ShipCardKai|Kisaragi/|link=Kisaragi}}
+{{ShipCardKai|Kisaragi/Kai Ni|link=Kisaragi}}
+{{ShipCardKai|Yayoi/|link=Yayoi}}
+{{ShipCardKai|Uzuki/|link=Uzuki}}
+{{ShipCardKai|Satsuki/|link=Satsuki}}
+{{ShipCardKai|Fumizuki/|link=Fumizuki}}
+{{ShipCardKai|Nagatsuki/|link=Nagatsuki}}
+{{ShipCardKai|Kikuzuki/|link=Kikuzuki}}
+{{ShipCardKai|Mikazuki/|link=Mikazuki}}
+{{ShipCardKai|Mochizuki/|link=Mochizuki}}
+===[[:Category:Fubuki Class|''Fubuki''-class]]===
+{{ShipCardKai|Fubuki/|link=Fubuki}}
+{{ShipCardKai|Fubuki/Kai Ni|link=Fubuki}}
+{{ShipCardKai|Shirayuki/|link=Shirayuki}}
+{{ShipCardKai|Hatsuyuki/|link=Hatsuyuki}}
+{{ShipCardKai|Miyuki/|link=Miyuki}}
+{{ShipCardKai|Murakumo/|link=Murakumo}}
+{{ShipCardKai|Murakumo/Kai Ni|link=Murakumo}}
+{{ShipCardKai|Isonami/|link=Isonami}}
+===[[:Category:Ayanami Class|''Ayanami''-class]]===
+{{ShipCardKai|Ayanami/|link=Ayanami}}
+{{ShipCardKai|Ayanami/Kai Ni|link=Ayanami}}
+{{ShipCardKai|Shikinami/|link=Shikinami}}
+{{ShipCardKai|Oboro/|link=Oboro}}
+{{ShipCardKai|Akebono/|link=Akebono}}
+{{ShipCardKai|Sazanami/|link=Sazanami}}
+{{ShipCardKai|Ushio/|link=Ushio}}
+{{ShipCardKai|Ushio/Kai Ni|link=Ushio}}
+===[[:Category:Akatsuki Class|''Akatsuki''-class]]===
+{{ShipCardKai|Akatsuki/|link=Akatsuki}}
+{{ShipCardKai|Akatsuki/Kai Ni|link=Akatsuki}}
+{{ShipCardKai|Hibiki/|link=Hibiki}}
+{{ShipCardKai|Верный/|link=Hibiki}}
+{{ShipCardKai|Ikazuchi/|link=Ikazuchi}}
+{{ShipCardKai|Inazuma/|link=Inazuma}}
+===[[:Category:Hatsuharu Class|''Hatsuharu''-class]]===
+{{ShipCardKai|Hatsuharu/|link=Hatsuharu}}
+{{ShipCardKai|Hatsuharu/Kai Ni|link=Hatsuharu}}
+{{ShipCardKai|Nenohi/|link=Nenohi}}
+{{ShipCardKai|Wakaba/|link=Wakaba}}
+{{ShipCardKai|Hatsushimo/|link=Hatsushimo}}
+{{ShipCardKai|Hatsushimo/Kai Ni|link=Hatsushimo}}
+===[[:Category:Shiratsuyu Class|''Shiratsuyu''-class]]===
+{{ShipCardKai|Shiratsuyu/|link=Shiratsuyu}}
+{{ShipCardKai|Shiratsuyu/Kai|link=Shiratsuyu}}
+{{ShipCardKai|Shigure/|link=Shigure}}
+{{ShipCardKai|Shigure/Kai Ni|link=Shigure}}
+{{ShipCardKai|Murasame/|link=Murasame}}
+{{ShipCardKai|Murasame/Kai|link=Murasame}}
+{{ShipCardKai|Yuudachi/|link=Yuudachi}}
+{{ShipCardKai|Yuudachi/Kai Ni|link=Yuudachi}}
+{{ShipCardKai|Harusame/|link=Harusame}}
+{{ShipCardKai|Harusame/Kai|link=Harusame}}
+{{ShipCardKai|Samidare/|link=Samidare}}
+{{ShipCardKai|Umikaze/|link=Umikaze}}
+{{ShipCardKai|Kawakaze/|link=Kawakaze}}
+{{ShipCardKai|Suzukaze/|link=Suzukaze}}
+===[[:Category:Asashio Class|''Asashio''-class]]===
+{{ShipCardKai|Asashio/|link=Asashio}}
+{{ShipCardKai|Ooshio/|link=Ooshio}}
+{{ShipCardKai|Michishio/|link=Michishio}}
+{{ShipCardKai|Arashio/|link=Arashio}}
+{{ShipCardKai|Yamagumo/|link=Yamagumo}}
+{{ShipCardKai|Asagumo/|link=Asagumo}}
+{{ShipCardKai|Arare/|link=Arare}}
+{{ShipCardKai|Kasumi/|link=Kasumi}}
+===[[:Category:Kagero Class|''Kagerou''-class]]===
+{{ShipCardKai|Kagerou/|link=Kagerou}}
+{{ShipCardKai|Shiranui/|link=Shiranui}}
+{{ShipCardKai|Kuroshio/|link=Kuroshio}}
+{{ShipCardKai|Hatsukaze/|link=Hatsukaze}}
+{{ShipCardKai|Yukikaze/|link=Yukikaze}}
+{{ShipCardKai|Amatsukaze/|link=Amatsukaze}}
+{{ShipCardKai|Tokitsukaze/|link=Tokitsukaze}}
+{{ShipCardKai|Urakaze/|link=Urakaze}}
+{{ShipCardKai|Isokaze/|link=Isokaze}}
+{{ShipCardKai|Hamakaze/|link=Hamakaze}}
+{{ShipCardKai|Tanikaze/|link=Tanikaze}}
+{{ShipCardKai|Nowaki/|link=Nowaki}}
+{{ShipCardKai|Maikaze/|link=Maikaze}}
+{{ShipCardKai|Akigumo/|link=Akigumo}}
+===[[:Category:Yuugumo Class|''Yuugumo''-class]]===
+{{ShipCardKai|Yuugumo/|link=Yuugumo}}
+{{ShipCardKai|Makigumo/|link=Makigumo}}
+{{ShipCardKai|Kazagumo/|link=Kazagumo}}
+{{ShipCardKai|Naganami/|link=Naganami}}
+{{ShipCardKai|Asashimo/|link=Asashimo}}
+{{ShipCardKai|Hayashimo/|link=Hayashimo}}
+{{ShipCardKai|Kiyoshimo/|link=Kiyoshimo}}
+{{ShipCardKai|Takanami/|link=Takanami}}
+===[[:Category:Akizuki Class|''Akizuki''-class]]===
+{{ShipCardKai|Akizuki/|link=Akizuki}}
+{{ShipCardKai|Teruzuki/|link=Teruzuki}}
+===[[Shimakaze|''Shimakaze'']]===
+{{ShipCardKai|Shimakaze/|link=Shimakaze}}
+===[[:Category:Maestrale Class|''Maestrale''-class]]===
+{{ShipCardKai|Libeccio/|link=Libeccio}}
+===[[:Category:Type 1934 Class|''Type 1934''-class]]===
+{{ShipCardKai|Z1/|link=Z1}}
+{{ShipCardKai|Z3/|link=Z3}}
+===[[:Category:Tenryū Class|''Tenryuu''-class]]===
+{{ShipCardKai|Tenryuu/|link=Tenryuu}}
+{{ShipCardKai|Tatsuta/|link=Tatsuta}}
+===[[:Category:Kuma Class|''Kuma''-class]]===
+{{ShipCardKai|Kuma/|link=Kuma}}
+{{ShipCardKai|Tama/|link=Tama}}
+{{ShipCardKai|Kitakami/|link=Kitakami}}
+{{ShipCardKai|Ooi/|link=Ooi}}
+{{ShipCardKai|Kiso/|link=Kiso}}
+===[[:Category:Nagara Class|''Nagara''-class]]===
+{{ShipCardKai|Nagara/|link=Nagara}}
+{{ShipCardKai|Isuzu/|link=Isuzu}}
+{{ShipCardKai|Isuzu/Kai Ni|link=Isuzu}}
+{{ShipCardKai|Natori/|link=Natori}}
+{{ShipCardKai|Yura/|link=Yura}}
+{{ShipCardKai|Kinu/|link=Kinu}}
+{{ShipCardKai|Abukuma/|link=Abukuma}}
+{{ShipCardKai|Abukuma/Kai Ni|link=Abukuma}}
+===[[:Category:Sendai Class|''Sendai''-class]]===
+{{ShipCardKai|Sendai/|link=Sendai}}
+{{ShipCardKai|Sendai/Kai Ni|link=Sendai}}
+{{ShipCardKai|Jintsuu/|link=Jintsuu}}
+{{ShipCardKai|Jintsuu/Kai Ni|link=Jintsuu}}
+{{ShipCardKai|Naka/|link=Naka}}
+{{ShipCardKai|Naka/Kai Ni|link=Naka}}
+===[[:Category:Katori Class|''Katori''-class]]===
+{{ShipCardKai|Katori/|link=Katori}}
+===[[:Category:Agano Class|''Agano''-class]]===
+{{ShipCardKai|Agano/|link=Agano}}
+{{ShipCardKai|Noshiro/|link=Noshiro}}
+{{ShipCardKai|Yahagi/|link=Yahagi}}
+{{ShipCardKai|Sakawa/|link=Sakawa}}
+===[[Yuubari|''Yuubari'']]===
+{{ShipCardKai|Yuubari/|link=Yuubari}}
+===''[[Ooyodo]]''===
+{{ShipCardKai|Ooyodo/|link=Ooyodo}}
+{{ShipCardKai|Ooyodo/Kai|link=Ooyodo}}
+===[[:Category:Kuma Class|''Kuma''-class]]===
+{{ShipCardKai|Kitakami/Kai|link=Kitakami}}
+{{ShipCardKai|Kitakami/Kai Ni|link=Kitakami}}
+{{ShipCardKai|Ooi/Kai|link=Ooi}}
+{{ShipCardKai|Ooi/Kai Ni|link=Ooi}}
+{{ShipCardKai|Kiso/Kai Ni|link=Kiso}}
+===[[:Category:Furutaka Class|''Furutaka''-class]]===
+{{ShipCardKai|Furutaka/|link=Furutaka}}
+{{ShipCardKai|Furutaka/Kai Ni|link=Furutaka}}
+{{ShipCardKai|Kako/|link=Kako}}
+{{ShipCardKai|Kako/Kai Ni|link=Kako}}
+===[[:Category:Aoba Class|''Aoba''-class]]===
+{{ShipCardKai|Aoba/|link=Aoba}}
+{{ShipCardKai|Kinugasa/|link=Kinugasa}}
+{{ShipCardKai|Kinugasa/Kai Ni|link=Kinugasa}}
+===[[:Category:Myōkō Class|''Myoukou''-class]]===
+{{ShipCardKai|Myoukou/|link=Myoukou}}
+{{ShipCardKai|Myoukou/Kai Ni|link=Myoukou}}
+{{ShipCardKai|Nachi/|link=Nachi}}
+{{ShipCardKai|Nachi/Kai Ni|link=Nachi}}
+{{ShipCardKai|Ashigara/|link=Ashigara}}
+{{ShipCardKai|Ashigara/Kai Ni|link=Ashigara}}
+{{ShipCardKai|Haguro/|link=Haguro}}
+{{ShipCardKai|Haguro/Kai Ni|link=Haguro}}
+===[[:Category:Takao Class|''Takao''-class]]===
+{{ShipCardKai|Takao/|link=Takao}}
+{{ShipCardKai|Atago/|link=Atago}}
+{{ShipCardKai|Maya/|link=Maya}}
+{{ShipCardKai|Maya/Kai Ni|link=Maya}}
+{{ShipCardKai|Choukai/|link=Choukai}}
+{{ShipCardKai|Choukai/Kai Ni|link=Choukai}}
+===[[:Category:Mogami Class|''Mogami''-class]]===
+{{ShipCardKai|Mogami/|link=Mogami}}
+{{ShipCardKai|Mikuma/|link=Mikuma}}
+{{ShipCardKai|Suzuya/|link=Suzuya}}
+{{ShipCardKai|Kumano/|link=Kumano}}
+===[[:Category:Tone Class|''Tone''-class]]===
+{{ShipCardKai|Tone/|link=Tone}}
+{{ShipCardKai|Chikuma/|link=Chikuma}}
+===[[:Category:Admiral Hipper Class|''Admiral Hipper''-class]]===
+{{ShipCardKai|Prinz Eugen/|link=Prinz Eugen}}
+{{ShipCardKai|Prinz Eugen/Kai|link=Prinz Eugen}}
+===[[:Category:Mogami Class|''Mogami''-class]]===
+{{ShipCardKai|Mogami/Kai|link=Mogami}}
+{{ShipCardKai|Mikuma/Kai|link=Mikuma}}
+{{ShipCardKai|Suzuya/Kai|link=Suzuya}}
+{{ShipCardKai|Kumano/Kai|link=Kumano}}
+===[[:Category:Tone Class|''Tone''-class]]===
+{{ShipCardKai|Tone/Kai Ni|link=Tone}}
+{{ShipCardKai|Chikuma/Kai Ni|link=Chikuma}}
+===[[:Category:Kongou Class|''Kongou''-class]]===
+{{ShipCardKai|Kongou/|link=Kongou}}
+{{ShipCardKai|Kongou/Kai Ni|link=Kongou}}
+{{ShipCardKai|Hiei/|link=Hiei}}
+{{ShipCardKai|Hiei/Kai Ni|link=Hiei}}
+{{ShipCardKai|Haruna/|link=Haruna}}
+{{ShipCardKai|Haruna/Kai Ni|link=Haruna}}
+{{ShipCardKai|Kirishima/|link=Kirishima}}
+{{ShipCardKai|Kirishima/Kai Ni|link=Kirishima}}
+===[[:Category:Fusou Class|''Fusou''-class]]===
+{{ShipCardKai|Fusou/|link=Fusou}}
+{{ShipCardKai|Yamashiro/|link=Yamashiro}}
+===[[:Category:Ise Class|''Ise''-class]]===
+{{ShipCardKai|Ise/|link=Ise}}
+{{ShipCardKai|Hyuuga/|link=Hyuuga}}
+===[[:Category:Nagato Class|''Nagato''-class]]===
+{{ShipCardKai|Nagato/|link=Nagato}}
+{{ShipCardKai|Mutsu/|link=Mutsu}}
+===[[:Category:Yamato Class|''Yamato''-class]]===
+{{ShipCardKai|Yamato/|link=Yamato}}
+{{ShipCardKai|Musashi/|link=Musashi}}
+===[[:Category:Bismarck Class|''Bismarck''-class]]===
+{{ShipCardKai|Bismarck/|link=Bismarck}}
+{{ShipCardKai|Bismarck/drei|link=Bismarck}}
+===[[:Category:Vittorio Veneto Class|''Vittorio Veneto''-class]]===
+{{ShipCardKai|Littorio/|link=Littorio}}
+{{ShipCardKai|Roma/|link=Roma}}
+===[[:Category:Fusou Class|''Fusou''-class]]===
+{{ShipCardKai|Fusou/Kai|link=Fusou}}
+{{ShipCardKai|Fusou/Kai Ni|link=Fusou}}
+{{ShipCardKai|Yamashiro/Kai|link=Yamashiro}}
+{{ShipCardKai|Yamashiro/Kai Ni|link=Yamashiro}}
+===[[:Category:Ise Class|''Ise''-class]]===
+{{ShipCardKai|Ise/Kai|link=Ise}}
+{{ShipCardKai|Hyuuga/Kai|link=Hyuuga}}
+===Light Carriers (Various Types)===
+{{ShipCardKai|Houshou/|link=Houshou}}
+{{ShipCardKai|Ryuujou/|link=Ryuujou}}
+{{ShipCardKai|Ryuujou/Kai|link=Ryuujou}}
+{{ShipCardKai|Ryuujou/Kai Ni|link=Ryuujou}}
+{{ShipCardKai|Ryuuhou/|link=Taigei}}
+{{ShipCardKai|Ryuuhou/Kai|link=Taigei}}
+===[[:Category:Hiyou Class|''Hiyou''-class]]===
+{{ShipCardKai|Hiyou/|link=Hiyou}}
+{{ShipCardKai|Hiyou/Kai|link=Hiyou}}
+{{ShipCardKai|Junyou/|link=Junyou}}
+{{ShipCardKai|Junyou/Kai Ni|link=Junyou}}
+===[[:Category:Shōhō Class|''Shouhou''-class]]===
+{{ShipCardKai|Shouhou/|link=Shouhou}}
+{{ShipCardKai|Shouhou/Kai|link=Shouhou}}
+{{ShipCardKai|Zuihou/|link=Zuihou}}
+{{ShipCardKai|Zuihou/Kai|link=Zuihou}}
+===[[:Category:Chitose Class|''Chitose''-class]]===
+{{ShipCardKai|Chitose/Carrier|link=Chitose}}
+{{ShipCardKai|Chitose/Carrier Kai Ni|link=Chitose}}
+{{ShipCardKai|Chiyoda/Carrier|link=Chiyoda}}
+{{ShipCardKai|Chiyoda/Carrier Kai Ni|link=Chiyoda}}
+===Aircraft Carriers (Various Types)===
+{{ShipCardKai|Akagi/|link=Akagi}}
+{{ShipCardKai|Kaga/|link=Kaga}}
+{{ShipCardKai|Souryuu/|link=Souryuu}}
+{{ShipCardKai|Souryuu/Kai Ni|link=Souryuu}}
+{{ShipCardKai|Hiryuu/|link=Hiryuu}}
+{{ShipCardKai|Hiryuu/Kai Ni|link=Hiryuu}}
+===[[:Category:Shōkaku Class|''Shoukaku''-class]]===
+{{ShipCardKai|Shoukaku/|link=Shoukaku}}
+{{ShipCardKai|Shoukaku/Kai Ni|link=Shoukaku}}
+{{ShipCardKai|Zuikaku/|link=Zuikaku}}
+{{ShipCardKai|Zuikaku/Kai|link=Zuikaku}}
+{{ShipCardKai|Zuikaku/Kai Ni}}
+===[[:Category:Unryuu Class|''Unryuu''-class]]===
+{{ShipCardKai|Unryuu/|link=Unryuu}}
+{{ShipCardKai|Unryuu/Kai|link=Unryuu}}
+{{ShipCardKai|Amagi/|link=Amagi}}
+{{ShipCardKai|Amagi/Kai|link=Amagi}}
+{{ShipCardKai|Katsuragi/|link=Katsuragi}}
+{{ShipCardKai|Katsuragi/Kai|link=Katsuragi}}
+===[[:Category:Shōkaku Class|''Shoukaku''-class]]===
+{{ShipCardKai|Shoukaku/Kai Ni A|link=Shoukaku}}
+{{ShipCardKai|Zuikaku/Kai Ni A}}
+===[[:Category:Taihou Class|''Taihou''-class]]===
+{{ShipCardKai|Taihou/|link=Taihou}}
+{{ShipCardKai|Taihou/Kai|link=Taihou}}
+==Submarine Aircraft Carrier (SSV)==
+===[[:Category:Type J3 Class|Junsen III Type (J3)]]===
+{{ShipCardKai|I-8/Kai|link=I-8}}
+===[[:Category:Type B1 Class|Type-B (B1)]]===
+{{ShipCardKai|I-19/Kai|link=I-19}}
+===[[:Category:Type B3 Class|Type-B Mod.2 (B3)]]===
+{{ShipCardKai|I-58/Kai|link=I-58}}
+===[[:Category:I-400 Class|''I-400''-class]]===
+{{ShipCardKai|I-401/|link=I-401}}
+===[[:Category:Kaidai VIa Class|Type Kaidai VIa (KD6)]]===
+{{ShipCardKai|I-168/|link=I-168}}
+===[[:Category:Type J3 Class|Junsen III Type (J3)]]===
+{{ShipCardKai|I-8/|link=I-8}}
+===[[:Category:Type B1 Class|Type-B (B1)]]===
+{{ShipCardKai|I-19/|link=I-19}}
+===[[:Category:Type B3 Class|Type-B Mod.2 (B3)]]===
+{{ShipCardKai|I-58/|link=I-58}}
+===RO-500===
+{{ShipCardKai|Ro-500/|link=U-511}}
+===[[:Category:Submergence Transport Vehicle|Type 3 Submergence Transport Vehicle]]===
+{{ShipCardKai|Maruyu/|link=Maruyu}}
+===[[:Category:Type IXC Class|Type IXC]]===
+{{ShipCardKai|U-511/|link=U-511}}
+===[[:Category:Chitose Class|''Chitose''-class]]===
+{{ShipCardKai|Chitose/|link=Chitose}}
+{{ShipCardKai|Chitose/Kai|link=Chitose}}
+{{ShipCardKai|Chiyoda/|link=Chiyoda}}
+{{ShipCardKai|Chiyoda/Kai|link=Chiyoda}}
+===[[:Category:Mizuho Class|''Mizuho''-class]]===
+{{ShipCardKai|Mizuho/|link=Mizuho}}
+===[[:Category:Akitsushima Class|''Akitsushima''-class]]===
+{{ShipCardKai|Akitsushima/|link=Akitsushima}}
+===Taigei===
+{{ShipCardKai|Taigei/|link=Taigei}}
+===[[:Category:Hei Class|''Akitsu Maru''-class]]===
+{{ShipCardKai|Akitsu Maru/|link=Akitsu Maru}}
+{{ShipCardKai|Akitsu Maru/Kai|link=Akitsu Maru}}
+===''Hayasui''-class===
+{{ShipCardKai|Hayasui/|link=Hayasui}}
+===''Akashi''-class===
+{{ShipCardKai|Akashi/|link=Akashi}}
+{{ShipCardKai|Akashi/Kai|link=Akashi}}
