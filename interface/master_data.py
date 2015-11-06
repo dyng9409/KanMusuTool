@@ -45,4 +45,3 @@ ship_class_eego = {
         u'補給油艦':'Fleet Oiler'
         }
 
-

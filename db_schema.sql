@@ -1,7 +1,10 @@
 /*
 There will be a drop tables script here
 */
-
+drop table misc_stat;
+drop table off_stat;
+drop table def_stat;
+drop table kanmusu;
 create table kanmusu(
     ship_id NUMERIC,
     ship_name varchar(15),
