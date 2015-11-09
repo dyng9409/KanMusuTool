@@ -9,7 +9,7 @@ create table kanmusu(
     ship_id NUMERIC,
     ship_name varchar(15),
     ship_yomi varchar(15),
-    ship_eego varchar(20),
+    ship_eego varchar(30),
     ship_shipdex NUMERIC,
     ship_type varchar(10),
     ship_class varchar(20),

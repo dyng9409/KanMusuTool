@@ -29,9 +29,11 @@ def database_top():
     ship_type = input('Please select a ship type: ')
     ship_type = master_data.ship_class_top[int(ship_type)]
     print 'You have selected:', ship_type
-    db_type_submenu(ship_type)
+    if ship_type == u'駆逐艦' or ship_type == u'水上機母艦':
+        return class_submenu(ship_type)
+    else:
+        return db_type_submenu(ship_type)
     #DD and AV have no subtype
-    return
 
 def db_type_submenu(topCategory):
     #db.conn = connection
@@ -43,6 +45,39 @@ def db_type_submenu(topCategory):
         eego = master_data.ship_class_eego[elt]
         print str(ind)+'. '+elt+' - '+eego
         ind += 1
-    #ideally, form here we go to ship class, but that requires processing
-    return
+    c = input("Please select the sub-type: ")
+    choice = master_data.ship_class_sub[topCategory][int(c)-1]
     
+    return class_submenu(choice)
+   
+def class_submenu(ship_type):
+    #db.conn = connection
+    #db.cur = cursor
+   
+    query = "select distinct ship_name,ship_eego from kanmusu where ship_type = %s order by ship_name;"
+    db.cur.execute(query, [ship_type])
+
+    results = db.cur.fetchall()
+    index = 1
+    for elt in results:
+        print str(index)+'. '+elt[0]+' - '+elt[1]
+        index += 1
+    ship = input("Please select the ship you wish to view: ")
+    ship = results[int(ship)-1][0]
+    return ship_info(ship)
+
+def ship_info(ship):
+
+    query = """
+    select *
+        from kanmusu
+            join off_stat on off_stat.ship_id = kanmusu.ship_id
+            join def_stat on def_stat.ship_id = kanmusu.ship_id
+            join misc_stat on misc_stat.ship_id = kanmusu.ship_id
+        where ship_name = %s;
+    """
+    qvar = [ship]
+    db.dictcur.execute(query, qvar)
+    res = db.dictcur.fetchall()
+    for key, val in res[0].iteritems():
+        print key+': ', val
