@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 import dbconnect as db
 import master_data
+
+fleet = []
 def database_top(): 
     print '----------'
     print '0. Exit'
@@ -56,11 +58,7 @@ def db_type_submenu(topCategory):
     c = input("Please select the sub-type: ")
     if int(c) == 0:
         return database_top()
-    try:
-        choice = master_data.ship_class_sub[topCategory][int(c)-1]
-    except:
-        print "\n Error: No such class \n"
-        exit(0)
+    choice = master_data.ship_class_sub[topCategory][int(c)-1]
     print "\nYou have selected: ", choice, '\n'
 
     if class_submenu(choice) is None:
@@ -83,31 +81,57 @@ def class_submenu(ship_type):
         print str(index)+'. '+elt[0]+' - '+elt[1]
         index += 1
     print "----------\n"
-    ship = input("Please select the ship you wish to view: ")
+    ship = input("Please select the ship you wish to fetch: ")
     if int(ship) == 0:
         return None
-    try:
-        ship = results[int(ship)-1][0]
-    except:
-        print "\n Error: No such ship \n"
-        exit(0)
+    ship = results[int(ship)-1][0]
     print "\nYou have selected: ", ship, "\n"
-    return ship_info(ship)
+    return getShip(ship)
 
-def ship_info(ship):
+def getShip(ship):
 
     query = """
     select *
         from kanmusu
             join off_stat on off_stat.ship_id = kanmusu.ship_id
-            join def_stat on def_stat.ship_id = kanmusu.ship_id
-            join misc_stat on misc_stat.ship_id = kanmusu.ship_id
         where ship_name = %s;
     """
     qvar = [ship]
     db.dictcur.execute(query, qvar)
     res = db.dictcur.fetchall()
-    for key, val in res[0].iteritems():
-        print key+': ', val
-    print '\n'
-    exit(0)
+    
+    fleet.append(res[0])
+    return 0
+
+print 'Building fleet'
+print 'Select 6 ships: '
+
+combinedMinFP = 0
+combinedMaxFP = 0
+combinedMinTorp = 0
+combinedMaxTorp = 0
+combinedMinAA = 0
+combinedMaxAA = 0
+
+for x in range(0,6):
+    print 'Current Fleet: '
+    for elt in fleet:
+        print elt['ship_name'], ' - ', elt['ship_eego']
+    database_top()
+for x in range(0,6):
+    combinedMinFP += fleet[x]['stat_fp_min']
+    combinedMaxFP += fleet[x]['stat_fp_max']
+
+    combinedMinTorp += fleet[x]['stat_torp_min']
+    combinedMaxTorp += fleet[x]['stat_torp_max']
+
+    combinedMinAA += fleet[x]['stat_aa_min']
+    combinedMaxAA += fleet[x]['stat_aa_max']
+    print fleet[x]['ship_name'], ' - ', fleet[x]['ship_eego']
+print 'Fleet Statistics (No Loadout): \n'
+print 'Combined Minimum Firepower: ', combinedMinFP
+print 'Combined Maximum Firepower: ', combinedMaxFP
+print 'Combined Minimum Torpedo: ', combinedMinTorp
+print 'Combined Maximum Torpedo: ', combinedMaxTorp
+print 'Combined Minimum Anti-Air: ', combinedMinAA
+print 'Combined Maximum Anti-Air: ', combinedMaxAA

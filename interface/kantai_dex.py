@@ -4,6 +4,4 @@ import menu
 #db.cur = cursor
 print 'Welcome to Kantai Dex v. 0.1'
 print 'Current mode: Database'
-while True:
-    menu.database_top()
-    exit(0)
+menu.database_top()

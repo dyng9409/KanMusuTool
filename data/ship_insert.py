@@ -18,6 +18,7 @@ for ind in range(0,383):
     yomi = ships[ind]['api_yomi']
     eego = romkan.to_roma(yomi)
     classind = ships[ind]['api_stype']-1
+    print 'INSERTING: ', idnum,' ', name
     if classind == 7:
         shipclass = u'\u9ad8\u901f\u6226\u8266'
     else:

@@ -4,9 +4,6 @@ romkan - easy_install romkan
 Tkinter - apt-get the python-tk package
 python 2.7
 
-note: go through yomis and eego and insert kai/kai2's
-note: replace sub names with actual pronnciation (e.g. 'imuya/いむや' instead of just i168/い１６８)
-
 process class data
 goals:
 1. english language database, offline, able to see stats, description
@@ -17,7 +14,5 @@ goals:
 5. sally ho simulation! (add enemy ships)
 6. map information + recommended fleets (user generated)
 
-GUI goals:
-CLI up to 4
-convert to gui
-find out how to get images
+Usage: navigate to interface, and run python kantai_dex.py
+

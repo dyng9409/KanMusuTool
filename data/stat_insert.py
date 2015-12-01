@@ -9,6 +9,7 @@ pwd = f.readline().strip()
 connect_name = "dbname='kancolle' user='"+user+"' host='localhost' password='"+pwd+"'"
 conn = psycopg2.connect(connect_name)
 cur = conn.cursor()
+print 'Updating Stats'
 for ind in range(0,383):
     idnum = ships[ind]['api_id']
 
