@@ -6,6 +6,7 @@ REMODEL table: id, afterid, remodel costs
 SCRAP table: scrap costs, id
 where to put getmes? maybe unnneeded? but would be nice, separate table
 
+dylan try and find where i changed things
 ABYSSALS start at index 383
 
 SHIP DATA
